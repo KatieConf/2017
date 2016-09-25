@@ -26,7 +26,10 @@
 td { 
     border-bottom: none;
 } 
-
+.speaker a { 
+    text-decoration: none;
+    color: black;
+}
 .speaker { 
     height: 200px
 }
@@ -34,9 +37,21 @@ h5 {
     display: inline-block;
     padding-right: 10px;
 }
+.name { 
+    display: block;
+    font-size: 24px;
+}
+.keynote.name { 
+    font-size: 3em;
+}
 .speaker img { 
+   border-radius: 5px;
     height: 100px;
 }
+.keynote img { 
+   border-radius: 15px;
+    height: 150px
+} 
 .speaker.name { 
     display:inline-block;
 }
