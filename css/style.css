@@ -55,3 +55,6 @@ h5 {
 .speaker.name { 
     display:inline-block;
 }
+.speaker.talk { 
+    display:inline-block;
+}
