@@ -19,7 +19,7 @@
 
 .section-heading {
   color:white;
-  padding-top: 50px;
+  padding-top: 10px;
   text-align: center;
   font-weight: bold;
 }
@@ -57,4 +57,9 @@ h5 {
 }
 .speaker.talk { 
     display:inline-block;
+}
+.year-header {
+    color: white;
+    text-align: center;
+    font-size: 20pt;
 }
